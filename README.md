@@ -1,43 +1,41 @@
----
-title: Create React App
-description: A default Create React App project, utilizing `Caddy` to serve the built app
-tags:
-  - Node
-  - React
-  - Caddy
----
+<h1 align="left">👋 HsoubGram</h1>
 
-# Create React App
+###
 
-This is a [Create React App](https://create-react-app.dev/) starter that uses [Caddy](https://caddyserver.com/).
+<p align="left">An application to share photos and communicate with friends</p>
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/6sjhSn?referralCode=ySCnWl)
+###
 
-## ✨ Features
+<h2 align="left">About</h2>
 
-- Create React App
-- [Caddy](https://caddyserver.com/)
+###
 
-## 💁‍♀️ How to use
+<p align="left">✨ All bugs was fixed<br>🎯 Will be updated soon using NextJs<br>🎲 Fun fact: This application made for Hsoub academy</p>
 
-- Install required dependencies with `npm install`
-- Start the server for development `npm run dev`
+###
 
-  (The original `start` command has been more appropriately renamed to `dev`)
+<h2 align="left">Made with:</h2>
 
-## ❓ Why use `Caddy` when deploying to Railway?
+###
 
-Caddy is a powerful, enterprise-ready, open source web server, and therefore Caddy is far better suited to serve websites than react-scripts is, using Caddy will result in much less memory and cpu usage compared to serving with react-scripts (much lower running costs too)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+</div>
 
-To see how this is achieved with nixpacks, check out the fully documented nixpacks.toml file in this repository
+###
 
-The configuration for Caddy is called a Caddyfile, and you can edit that file to further suite your needs, by default it comes configured to serve a single page app for Vue 3, and to also gzip the responses
+<h2 align="left">Setup:</h2>
 
-**Relevant Caddy documentation:**
+###
 
-- [The Caddyfile](https://caddyserver.com/docs/caddyfile)
-- [Caddyfile Directives](https://caddyserver.com/docs/caddyfile/directives)
-- [root](https://caddyserver.com/docs/caddyfile/directives/root)
-- [encode](https://caddyserver.com/docs/caddyfile/directives/encode)
-- [file_server](https://caddyserver.com/docs/caddyfile/directives/file_server)
-- [try_files](https://caddyserver.com/docs/caddyfile/directives/try_files)
+<p align="left">✨ Open your terminal and type: npm install<br>✨ Then: npm start<br>This commands will start the application locally</p>
+
+###
